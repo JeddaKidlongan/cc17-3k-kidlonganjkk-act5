@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Art Space App</string>
+    <string name="la_piet">La Pietà</string>
+    <string name="michelangelo">Michelangelo</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>
