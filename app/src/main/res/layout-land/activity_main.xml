@@ -43,6 +43,18 @@
                 tools:ignore="HardcodedText" />
 
             <TextView
+                android:id="@+id/tag_state_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="13dp"
+                android:gravity="center"
+                android:text="Another popular related image is the Pietà, a form of the Lamentation of Christ where the Virgin Mary is seen to be mourning Christ alone."
+                android:textColor="@color/black"
+                android:textSize="12sp"
+                tools:ignore="HardcodedText,VisualLintLongText"/>
+
+            <TextView
                 android:id="@+id/artis_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
